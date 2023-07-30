@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Application</string>
+    <string name="edit_option">Edit</string>
+    <string name="save_option">Save</string>
+</resources>
